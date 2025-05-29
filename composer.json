@@ -1,16 +1,16 @@
 {
-    "name": "itsimiro/laravel-chunk-cursor",
+    "name": "axterisko/laravel-chunk-cursor",
     "description": "Laravel Eloquent cursor with eager loading and chunking",
     "keywords": [
         "laravel",
         "eloquent"
     ],
-    "homepage": "https://github.com/miroslaws8/laravel-chunk-cursor",
+    "homepage": "https://github.com/axterisko/laravel-chunk-cursor",
     "license": "MIT",
     "authors": [
         {
-            "name": "itsimiro",
-            "email": "itsimiro@gmail.com",
+            "name": "axterisko",
+            "email": "info@axterisko.it",
             "role": "Maintainer"
         }
     ],
